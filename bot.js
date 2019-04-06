@@ -10,7 +10,7 @@ function clean(text) {
 }
 
 var prefix = ".";
-var token = "NTYyNjg2NDQ3MTc0NDE4NDQy.XKOZAw.uarI8nprTeomMhxIIVvl7hUgPY8";
+var token = "NTYyNjg2NDQ3MTc0NDE4NDQy.XKhtvQ.QKzkNgIEK1GUipj-gLMix2GBG_w";
 
 
 
@@ -263,5 +263,5 @@ client.on("message", async message => {
   }
 });
 
-client.login('NTYyNjg2NDQ3MTc0NDE4NDQy.XKOZAw.uarI8nprTeomMhxIIVvl7hUgPY8');
+client.login('NTYyNjg2NDQ3MTc0NDE4NDQy.XKhtvQ.QKzkNgIEK1GUipj-gLMix2GBG_w');
 client.login(token);
